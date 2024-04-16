@@ -129,45 +129,80 @@ Each project is tailored to specific areas of life, equipped with unique section
 
 - **_Inbox_**
 
-  > **Incoming Tasks**: All new tasks are initially placed here.
-  > **Priority**: Tasks that require immediate attention.
-  > **For Review**: Tasks awaiting categorization or further review.
-  > **Planning**: Tasks for future actions and planning.
+  > **Incoming Tasks**: All new tasks are initially placed here.</br>
+  > **Priority**: Tasks that require immediate attention.</br>
+  > **For Review**: Tasks awaiting categorization or further review.</br>
+  > **Planning**: Tasks for future actions and planning.</br>
 
 - **_Personal_**
 
-  > **Wellness** > **Emotional Health** > **Self-Improvement** > **Leisure Activities** > **Routine Tasks** > **Reflections**
+  > **Wellness** </br>
+  > **Emotional Health**</br>
+  > **Self-Improvement**</br>
+  > **Leisure Activities**</br>
+  > **Routine Tasks** </br>
+  > **Reflections**</br>
 
 - **_Work_**
 
-  > **Assignments** > **Career Growth** > **Networking** > **Skills Training** > **Collaborations** > **Evaluations** > **External Projects**
+  > **Assignments** </br>
+  > **Career Growth** </br>
+  > **Networking**</br>
+  > **Skills Training** </br>
+  > **Collaborations**</br>
+  > **Evaluations**</br>
+  > **External Projects**</br>
 
 - **_Finance_**
 
-  > **Budget Management** > **Saving Plans** > **Goals** > **Loans Management** > **Tax Duties** > **Financial Review**
+  > **Budget Management**</br>
+  > **Saving Plans**</br>
+  > **Goals**</br>
+  > **Loans Management**</br>
+  > **Tax Duties** </br>
+  > **Financial Review**</br>
 
 - **_Family & Social_**
 
-  > **Family Tasks** > **Social Engagements** > **Parenting Duties** > **Relationships** > **Volunteering** > **Event Organization**
+  > **Family Tasks**</br>
+  > **Social Engagements** </br>
+  > **Parenting Duties** </br>
+  > **Relationships**</br>
+  > **Volunteering** </br>
+  > **Event Organization**</br>
 
 - **_Someday/Maybe_**
-  > **Idea Bank** > **Learning Goals** > **Travel Plans** > **Activities** > **Ambitions** > **Books to Read** > **Career Dreams** > **Bucket List**
+  > **Idea Bank** </br>
+  > **Learning Goals**</br>
+  > **Travel Plans** </br>
+  > **Activities** </br>
+  > **Ambitions** </br>
+  > **Books to Read** </br>
+  > **Career Dreams** </br>
+  > **Bucket List**</br>
 
 ### Labels
 
 Labels provide additional context to tasks, aiding in sorting and prioritization:
 
-- **_preseted labels_** :
-  > **Time Labels**: `#30min`, `#60min`, `#Hours`, `#Day`, `#LongDuration` > **Context Labels**: `@Morning`, `@Afternoon`, `@Evening`, `@Night` > **Priority Labels**: `!Urgent`, `!Important`, `!Critical`, `!HighPriority`, `!MediumPriority`, `!LowPriority` > **Progress Labels**: `%25_Complete`, `%50_Complete`, `%75_Complete` > **Category Labels**: `+Development`, `+Health`, `+Finance`, `+Learning`, `+Creative`, `+Admin` > **Personal Context Labels**: `(Family)`, `(Personal)`, `(Work)`, `(Errands)` > **Device-Specific Labels**: `^Laptop`, `^Mobile` > **Collaboration Labels**: `&Team`, `&Delegate`
+- **_predefined labels_** :
+  > **Time Labels**: `#30min`, `#60min`, `#Hours`, `#Day`, `#LongDuration` </br>
+  > **Context Labels**: `@Morning`, `@Afternoon`, `@Evening`, `@Night`</br>
+  > **Priority Labels**: `!Urgent`, `!Important`, `!Critical`, `!HighPriority`, `!MediumPriority`, `!LowPriority`</br>
+  > **Progress Labels**: `%25_Complete`, `%50_Complete`, `%75_Complete`</br>
+  > **Category Labels**: `+Development`, `+Health`, `+Finance`, `+Learning`, `+Creative`, `+Admin`</br>
+  > **Personal Context Labels**: `(Family)`, `(Personal)`, `(Work)`, `(Errands)`</br>
+  > **Device-Specific Labels**: `^Laptop`, `^Mobile`</br>
+  > **Collaboration Labels**: `&Team`, `&Delegate`</br>
 
 ### Filters
 
 Filters help view tasks across projects based on specific criteria:
 
-- **_preseted Filters_** :
-  > **This Week**: Shows this week tasks.
-  > **Today**: Shows today's tasks
-  > **OverDue**: Displays all OverDue tasks.
+ - **_preseted Filters_** :
+  > **This Week**: Shows this week tasks.</br>
+  > **Today**: Shows today's tasks</br>
+  > **OverDue**: Displays all OverDue tasks.</br>
 
 This comprehensive setup ensures that Athena users can manage their tasks efficiently, capitalizing on a structured approach that enhances clarity and focus.
 
