@@ -1,4 +1,4 @@
-# **_Athena User Guide Documentation_**
+# **_Athena's GPT Assistant User Guide Documentation_**
 
 ### Document Overview
 
